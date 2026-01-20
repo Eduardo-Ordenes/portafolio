@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.0000d424.css",
-    "main.js": "/portafolio/static/js/main.b9827dad.js",
+    "main.js": "/portafolio/static/js/main.0ce8d8b7.js",
     "static/js/453.7d1ffe6d.chunk.js": "/portafolio/static/js/453.7d1ffe6d.chunk.js",
     "static/media/Imagen2.png": "/portafolio/static/media/Imagen2.731daaea26155fdb3d55.png",
     "static/media/fenix2.png": "/portafolio/static/media/fenix2.eeb58e64327ffc9a8c1f.png",
@@ -16,7 +16,6 @@
     "static/media/CRONOS2.png": "/portafolio/static/media/CRONOS2.e2e73e69f12a875408b2.png",
     "static/media/delivery2.png": "/portafolio/static/media/delivery2.54ef6829dc1d6b96e0a6.png",
     "static/media/sistema-juegos.png": "/portafolio/static/media/sistema-juegos.38cacaa01a5615c2903a.png",
-    "static/media/Currículum - Eduardo Salinas.pdf": "/portafolio/static/media/Currículum - Eduardo Salinas.42de0b782050772e0b1c.pdf",
     "static/media/sistema-cronos.png": "/portafolio/static/media/sistema-cronos.033156db612ddcbe7c30.png",
     "static/media/juegos_cognitivos2.png": "/portafolio/static/media/juegos_cognitivos2.2c4ecac49a59170de697.png",
     "static/media/sistemaControl2.png": "/portafolio/static/media/sistemaControl2.17c2cdd12e94d0bf1b63.png",
@@ -25,6 +24,7 @@
     "static/media/sistemaControl1.png": "/portafolio/static/media/sistemaControl1.aa83059420fe5419666f.png",
     "static/media/hapi2-form.png": "/portafolio/static/media/hapi2-form.998b7998ad79c4662829.png",
     "static/media/hapi1-form.png": "/portafolio/static/media/hapi1-form.a575a64954a3e1d0dfa6.png",
+    "static/media/Eduardo Salinas - Currículum.pdf": "/portafolio/static/media/Eduardo Salinas - Currículum.645c09ef7bc081efcaaf.pdf",
     "static/media/juegos_cognitivos4.png": "/portafolio/static/media/juegos_cognitivos4.fba177e0f436ece93aad.png",
     "static/media/sistema-control2.png": "/portafolio/static/media/sistema-control2.0d1d69952f6a62267490.png",
     "static/media/sqlserver.svg": "/portafolio/static/media/sqlserver.7e3c2025a2f083448bd8b4aa32b126ea.svg",
@@ -43,11 +43,11 @@
     "static/media/css.svg": "/portafolio/static/media/css.cce1e71a67427e01caedeed1b01d4efa.svg",
     "static/media/html.svg": "/portafolio/static/media/html.0c8899975fbb5345002df9b408db0cc0.svg",
     "main.0000d424.css.map": "/portafolio/static/css/main.0000d424.css.map",
-    "main.b9827dad.js.map": "/portafolio/static/js/main.b9827dad.js.map",
+    "main.0ce8d8b7.js.map": "/portafolio/static/js/main.0ce8d8b7.js.map",
     "453.7d1ffe6d.chunk.js.map": "/portafolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0000d424.css",
-    "static/js/main.b9827dad.js"
+    "static/js/main.0ce8d8b7.js"
   ]
 }
